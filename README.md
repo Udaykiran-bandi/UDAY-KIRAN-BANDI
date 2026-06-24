@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm UDAY KIRAN BANDI</h1>
-<h3 align="center">A passionate Gen AI Engineer | Data Science Enthusiast 🚀</h3>
+<h3 align="center">A passionate Gen AI Engineer </h3>
 
 <p align="center">
   <a href="https://github.com/Udaykiran-bandi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
